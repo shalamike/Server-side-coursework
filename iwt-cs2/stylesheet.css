@@ -1,0 +1,51 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    font-family: "Yu Gothic";
+    background-color: aquamarine;
+}
+
+h3{
+    font-family: "Yu Gothic";
+}
+
+h4{
+    font-family: Arial;
+    color: brown;
+}
+
+h6{
+    font-family: Cambria;
+    font-size: large;
+}
+
+p{
+    font-family: Arial;
+}
+
+table, th, td{
+    border: 1px solid black ;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 60px;
+}
+
+th{
+    background-color: orange;
+}
+
+td{
+    background-color: gold;
+    text-align-all: center;
+}
+
+form{
+    background-color: beige;
+}
